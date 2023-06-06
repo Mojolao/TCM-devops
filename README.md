@@ -1,2 +1,2 @@
 # TCM-devops
-Repo for TCM-devops assessment
+This Repo is for The Coding Mum DevOps learning assessment
